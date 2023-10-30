@@ -13,3 +13,5 @@ You can use the following commands to start the nginx server
 
 Then you can start the container with docker image downloaded on your computer with this command
 ``` docker run -d -p 80:80 loginpage ```
+
+![Screenshot (294)](https://github.com/DavidAde1/A-simple-Login-Page/assets/82810883/b32ec978-6ffa-41eb-9d3d-c2e655ae1a5e)
